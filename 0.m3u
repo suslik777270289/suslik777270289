@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:0,1. "1+1"
+http://188.35.9.11:2001
+#EXTINF:0,2. "http://195.138.78.66:8001/udp/239.2.153.175:1234
+#EXTINF:0,3. "5 http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4
+#EXTINF:0,4. "http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v1a1/index.m3u8
+#EXTINF:0,5. "112 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:0,6. "http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:0,7. "Bridge HD"
+http://62.78.44.55:4022/udp/224.0.90.227:1234
+#EXTINF:0,8. "TV BRICS [FHD]"
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:0,9. "http://159.224.182.177:8080/stream6/stream.m3u8
+#EXTINF:0,10. "http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:0,11. "https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:0,12. "http://213.234.9.46:7088/udp/239.1.9.11:1234
+#EXTINF:0,13. "https://live-k2309-kbp.1plus1.video/233342/smil:233342.smil/chunklist_b2928000.m3u8
+#EXTINF:0,14. "EU music HD"
+http://188.35.9.11:21031/udp/043m
+#EXTINF:0,15. "Russian Music Box HD"
+http://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,16. "Music Box UA HD"
+http://server1.life-tv.eu/ch0491/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:0,17. "Deluxe Music HD"
+http://188.35.9.5:10007/stolen/200b/parasite.install
+#EXTINF:0,18. "1HD"
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTINF:0,19. "Odessa Fashion TV"
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+#EXTINF:0,20. "http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:0,21. "OTV"
+http://212.26.146.148/hls/otv.m3u8
+#EXTINF:0,22. "M1"
+http://server1.life-tv.eu/ch0408/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:0,23. "http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:0,24. "Power TV HD"
+https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:0,25. "Kronehit TV [FHD]"
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0,26. "EU Music HD"
+http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/925/index.m3u8
+#EXTINF:0,27. "O!2 HD"
+http://213.234.9.46:7088/udp/239.1.10.36:1234
+#EXTINF:0,28. "MTV HD"
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:0,29. "NRJ HITS HD"
+http://energytv.vedge.infomaniak.com/livecast/energytv/chunklist_w1334805201.m3u8
+#EXTINF:0,30. "AIVA HD"
+https://strm.yandex.ru/kal/aiva/aiva0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0,31. "http://dmitry-tv.ru/his/CH_TNTMUSICHD.m3u8
+#EXTINF:0,32. "California Music Channel HD"
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:0,33. "New Radio"
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:0,34. "http://213.234.9.46:7088/udp/239.1.9.33:1234
+#EXTINF:0,35. "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0,36. "RU TV HD"
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:0,37. "SONG TV Russia"
+http://songtvru.ru:8060/hd/playlist.m3u8
+#EXTINF:0,38. "OneRUS HD"
+http://rtmp.one.by:2300
+#EXTINF:0,39. "One.by 4K"
+http://rtmp.one.by:1499
+#EXTINF:0,40. "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:0,41. "History"
+http://46.32.68.167/s/live/926/816951136/819088191919/0.m3u8
+#EXTINF:0,42. "http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0,43. "555 Hunt Fishing TV HD"
+rtmp://193.169.178.29/podsekaiTV/chanelHD
+#EXTINF:0,44. "http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:0,45. "Animal Planet HD"
+http://46.32.68.167/s/live/918/816951136/819088191919/0.m3u8
+#EXTINF:0,46. "Travel channel HD"
+http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/233/index.m3u8
+#EXTINF:0,47. "Travel Adventure HD"
+http://46.32.68.167/s/live/904/816951136/819088191919/0.m3u8
+#EXTINF:0,48. "Investigation Discovery HD"
+http://server1.life-tv.eu/ch0061/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:0,49. "Discovery channel HD"
+http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/227/index.m3u8
+#EXTINF:0,50. "NAT GEO WILD HD"
+http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8
+#EXTINF:0,51. "National Geographic HD"
+http://46.32.68.167/s/live/922/816951136/819088191919/0.m3u8
+#EXTINF:0,52. "Viasat Explorer HD"
+http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:0,53. "Viasat History HD"
+http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+#EXTINF:0,54. "Viasat Nature/History HD"
+http://server1.life-tv.eu/ch0121/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+#EXTINF:0,55. "http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:0,56. "Russian Extreme Ultra (Zabava)"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+#EXTINF:0,57. "BRiDGE TV Deluxe"
+http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/236/index.m3u8
+#EXTINF:0,58. "DocuBox HD"
+http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/968/index.m3u8
+#EXTINF:0,59. "Ohttp://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8?version=2
+#EXTINF:0,60. "TLC HD"
+http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/232/index.m3u8
+#EXTINF:0,61. "HD Life"
+http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/226/index.m3u8
+#EXTINF:0,62. "RTG HD"
+http://46.32.68.167/s/live/909/816951136/819088191919/0.m3u8
+#EXTINF:0,63. "XSPORT HD"
+http://486032Vir.melpakomn.ru/iptv/WESVTQAXDA7Q8N/996/index.m3u8
+#EXTINF:0,64. "http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/222/index.m3u8
+#EXTINF:0,65. "http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/211/index.m3u8
+#EXTINF:0,66. "http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/206/index.m3u8
+#EXTINF:0,67. "http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/212/index.m3u8
+#EXTINF:0,68. "http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/220/index.m3u8
+#EXTINF:0,69. "http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/207/index.m3u8
+#EXTINF:0,70. "http://telesfor.kartoshkaka.ru/iptv/ZVQP7WC8VPT42D/225/index.m3u8
+#EXTINF:0,71. "http://188.35.9.11:2007
+#EXTINF:0,72. "http://188.35.9.11:2008
